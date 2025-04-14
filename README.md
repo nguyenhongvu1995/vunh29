@@ -1,6 +1,6 @@
 # VuNH
 
-## PROFESSIONAL SUMMARY
+## Professional Summary
 Experienced Web Application Developer with over 7 years of expertise in crafting robust and scalable solutions. Proficient
 in Java core, OOP principles. Skilled in leveraging these technologies to design, develop, and maintain efficient and user-
 friendly web applications. Passionate about staying updated with the latest industry trends and best practices to deliver
